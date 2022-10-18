@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marinaprickett
-- 👀 I’m interested in | Front End Web Development(HTML, CSS, JAVASCRIPT) and Python
-- 🌱 I’m currently learning | Javascript
+- 👀 I’m interested in | Front End Web Development(html, css, javascript) and Python
+- 🌱 I’m currently learning | Python
 - 📫 How to reach me | marinayurika.art
 
 <!---
